@@ -1,0 +1,12 @@
+.env
+.env.local
+.env.*
+__pycache__
+**/__pycache__
+*.pyc
+*.pyo
+.git
+.gitignore
+README.md
+docker-compose.yml
+nginx.conf
